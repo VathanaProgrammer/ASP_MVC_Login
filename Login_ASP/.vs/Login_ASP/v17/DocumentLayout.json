@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sieng\\source\\repos\\Login_ASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D41E7BF-CB1E-49C2-B877-8108EEE77BDA}|Login_ASP\\Login_ASP.csproj|c:\\users\\sieng\\source\\repos\\login_asp\\login_asp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D41E7BF-CB1E-49C2-B877-8108EEE77BDA}|Login_ASP\\Login_ASP.csproj|solutionrelative:login_asp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D41E7BF-CB1E-49C2-B877-8108EEE77BDA}|Login_ASP\\Login_ASP.csproj|c:\\users\\sieng\\source\\repos\\login_asp\\login_asp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D41E7BF-CB1E-49C2-B877-8108EEE77BDA}|Login_ASP\\Login_ASP.csproj|solutionrelative:login_asp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D41E7BF-CB1E-49C2-B877-8108EEE77BDA}|Login_ASP\\Login_ASP.csproj|c:\\users\\sieng\\source\\repos\\login_asp\\login_asp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D41E7BF-CB1E-49C2-B877-8108EEE77BDA}|Login_ASP\\Login_ASP.csproj|solutionrelative:login_asp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D41E7BF-CB1E-49C2-B877-8108EEE77BDA}|Login_ASP\\Login_ASP.csproj|c:\\users\\sieng\\source\\repos\\login_asp\\login_asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D41E7BF-CB1E-49C2-B877-8108EEE77BDA}|Login_ASP\\Login_ASP.csproj|solutionrelative:login_asp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D41E7BF-CB1E-49C2-B877-8108EEE77BDA}|Login_ASP\\Login_ASP.csproj|c:\\users\\sieng\\source\\repos\\login_asp\\login_asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D41E7BF-CB1E-49C2-B877-8108EEE77BDA}|Login_ASP\\Login_ASP.csproj|solutionrelative:login_asp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D41E7BF-CB1E-49C2-B877-8108EEE77BDA}|Login_ASP\\Login_ASP.csproj|c:\\users\\sieng\\source\\repos\\login_asp\\login_asp\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D41E7BF-CB1E-49C2-B877-8108EEE77BDA}|Login_ASP\\Login_ASP.csproj|solutionrelative:login_asp\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D41E7BF-CB1E-49C2-B877-8108EEE77BDA}|Login_ASP\\Login_ASP.csproj|c:\\users\\sieng\\source\\repos\\login_asp\\login_asp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D41E7BF-CB1E-49C2-B877-8108EEE77BDA}|Login_ASP\\Login_ASP.csproj|solutionrelative:login_asp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 227,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\sieng\\source\\repos\\Login_ASP\\Login_ASP\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Login_ASP\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\sieng\\source\\repos\\Login_ASP\\Login_ASP\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "Login_ASP\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T09:28:21.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\source\\repos\\Login_ASP\\Login_ASP\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Login_ASP\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\sieng\\source\\repos\\Login_ASP\\Login_ASP\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Login_ASP\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T09:03:55.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\source\\repos\\Login_ASP\\Login_ASP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Login_ASP\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sieng\\source\\repos\\Login_ASP\\Login_ASP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Login_ASP\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T08:56:12.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sieng\\source\\repos\\Login_ASP\\Login_ASP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Login_ASP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sieng\\source\\repos\\Login_ASP\\Login_ASP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Login_ASP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAADTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-28T08:48:40.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sieng\\source\\repos\\Login_ASP\\Login_ASP\\appsettings.json",
+              "RelativeDocumentMoniker": "Login_ASP\\appsettings.json",
+              "ToolTip": "C:\\Users\\sieng\\source\\repos\\Login_ASP\\Login_ASP\\appsettings.json",
+              "RelativeToolTip": "Login_ASP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-28T08:39:52.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\source\\repos\\Login_ASP\\Login_ASP\\Program.cs",
+              "RelativeDocumentMoniker": "Login_ASP\\Program.cs",
+              "ToolTip": "C:\\Users\\sieng\\source\\repos\\Login_ASP\\Login_ASP\\Program.cs",
+              "RelativeToolTip": "Login_ASP\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T08:26:10.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sieng\\source\\repos\\Login_ASP\\Login_ASP\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Login_ASP\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sieng\\source\\repos\\Login_ASP\\Login_ASP\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Login_ASP\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T08:25:43.806Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
